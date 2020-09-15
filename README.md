@@ -17,3 +17,8 @@
 <p align="center">
   <img src="https://www.fossmint.com/wp-content/uploads/2017/05/FontBase-Font-Manager-for-Linux.png" alt="FontBase" width="738">
 </p>
+
+## HTML
+
+Il s'agit du language de programmation permettant d'écrire et d'organiser le contenu de la page (paragraphes, titres, images). Lorsque l'on se rend sur un site internet le serveur renvoi le contenu de la page au format HTML.
+Le navigateur est le logiciel permettant de lire, d'interpreter et d'afficher le code HTML (nous favoriserons pendant ce cours l'usage de [Chrome](https://www.google.fr/chrome/) ou [Firefox](https://www.mozilla.org/fr/firefox/new/))
