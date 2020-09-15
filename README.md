@@ -26,4 +26,8 @@ Il s'agit du language de programmation permettant d'écrire et d'organiser **le 
 L'HTML permet de typer les différents contenu de la page grâce à des balises, ces dernières peuvent prendre 2 formes :
 
 - Les balises par paires permettant d'englober du contenu et de le définir. ```<h1>Grand titre</h1>``` ici la balise h1 permet de définir le texte "Grand titre" comme étant un titre de niveau 1
-- Les balises oprhelines permettent d'insérer un contenu à un endroit precis. Cela correspond souvent à autre chose que du texte comme une image ou un champs de formulaire ```<img src="chemin/vers/mon/image.jpg" alt="ma balise image" />```
+- Les balises oprhelines permettent d'insérer un contenu à un endroit precis. Cela correspond souvent à autre chose que du texte comme une image ou un champs de formulaire ```<img src="chemin/vers/mon/image.jpg" alt="mon image" />```
+
+Une page HTML est toujours organiser en **2 parties** : 
+- **l'en-tête** délimité par la balise ```<head></head>```, il permet de fournir diverses indications sur la page au navigateur mais les informations contenu dans cette balise ne s'affiche pas dans la fenêtre du navigateur et ne seront pas visible pour l'internaute.
+- **le corps** de la page délimité par la balise ```<body></body>```. Entre ces balises, nous ajouterons tout **le contenu que l'on souhaite afficher**.
